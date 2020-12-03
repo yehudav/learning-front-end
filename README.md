@@ -27,6 +27,45 @@ git, github, command line
 
 ## 3. learn HTML, CSS
 
+learn the basics of HTML and CSS.
+practice by building AT LEAST:
+
+- 12 micro components (navbar, search tab, menu, etc.)
+- 5 simple websites (no JavaScript).
+
+### micro components ideas:
+
+make sure to build every micro component 5 times from scratch , in order to actually understanding it.
+
+1. Fixed Sidebar
+2. Outline Buttons
+3. Top Navigation
+4. Login Form in a Menu
+5. Search Bar
+6. Change Background on Scroll
+7. a login form
+8. Hoverable Dropdown
+9. Image Overlay Fade
+10. Dropdown Navbar
+11. Icon Bar
+12. Horizontal Scroll Menu
+13. Bottom Navigation
+14. Position Text Over an Image
+15. Text Blocks Over Image
+16. Sign Up Form
+17. CSS Loader
+18. Tooltip
+
+check out https://www.w3schools.com/howto for more ideas.
+
+### projects ideas:
+
+1.
+2.
+3.
+4.
+5.
+
 ## 4. learn MOAR CSS
 
 1. layouts positioning flexbox grid box model specifity
