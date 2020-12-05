@@ -1,6 +1,6 @@
 # learning frontend
 
-## roadmap for learning frontend development
+## road map for learning frontend development
 
 0. set up.
 1. learn computer science.
@@ -27,15 +27,14 @@ git, github, command line
 
 ## 3. learn HTML, CSS
 
-learn the basics of HTML and CSS.
-practice by building AT LEAST:
+learn the basics of HTML and CSS by building AT LEAST:
 
 - 12 micro components (navbar, search tab, menu, etc.)
 - 5 simple websites (no JavaScript).
 
 ### micro components ideas:
 
-make sure to build every micro component 5 times from scratch , in order to actually understanding it.
+make sure to build every micro component 5 times from scratch, in order to actually understanding it.
 
 1. Fixed Sidebar
 2. Outline Buttons
@@ -72,7 +71,7 @@ check out https://www.w3schools.com/howto for more ideas.
 2. responsive design, fluid design media queries
 3. typography fluid typography responsive typography - general
 
-when u built at least 12 micro components, 5-10 websits, comfortable with positoning, flexbox, grid,
+when u built at least 12 micro components, 5-10 websites, comfortable with positioning, flexbox, grid,
 
 ## 5. learn JavaScript
 
@@ -94,8 +93,7 @@ api, REST api, express mongodb, build todo list +db, blog
 
 ## project ideas
 
-html css
-build everything from w3 - repetition!!!
+
 
 js
 digital clock
