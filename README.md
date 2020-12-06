@@ -59,11 +59,20 @@ check out https://www.w3schools.com/howto for more ideas.
 
 ### projects ideas:
 
-1.
-2.
-3.
-4.
-5.
+1. Tribute Page
+2. Webpage Including Form
+3. Parallax Website
+4. Landing Page
+5. Restaurant Website
+6. Event or Conference Webpage
+7. Music Store Page
+8. Photography Site
+9. Personal Portfolio
+10. Technical Documentation
+11. google.com page
+12. Video Background Site
+
+source - https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/
 
 ## 4. learn MOAR CSS
 
@@ -92,8 +101,6 @@ api, REST api, express mongodb, build todo list +db, blog
 ## 9. job ready
 
 ## project ideas
-
-
 
 js
 digital clock
