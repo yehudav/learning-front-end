@@ -29,7 +29,7 @@ git, github, command line
 
 learn the basics of HTML and CSS by building AT LEAST:
 
-- 12 micro components (navbar, search tab, menu, etc.)
+- 12 micro components.
 - 5 simple websites (no JavaScript).
 
 ### micro components ideas:
@@ -55,7 +55,7 @@ make sure to build every micro component 5 times from scratch, in order to actua
 17. CSS Loader
 18. Tooltip
 
-check out https://www.w3schools.com/howto for more ideas.
+check out https://www.w3schools.com/howto for more micro component ideas.
 
 ### projects ideas:
 
