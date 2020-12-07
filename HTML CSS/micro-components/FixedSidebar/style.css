@@ -1,24 +1,30 @@
 body {
-  background-color: blue;
-}
-
-.fixed-sidebar {
-  background-color: black;
-  height: 100%;
   font-size: x-large;
-}
-#main {
-  float: right;
-  margin: 0 1.5%;
-  width: 86%;
-  font-size: x-large;
-}
-#sidebar {
-  background-color: black;
-  position: fixed;
-  
 }
 aside {
+  position: fixed;
   float: left;
-  width: 10%;
+  background-color: black;
+  padding: 1%;
+  border: 0%;
+  margin: 0%;
+  width: 7%;
+  height: 100%;
+}
+section {
+  float: right;
+  width: 89%;
+  background-color: blanchedalmond;
+  padding: 1%;
+
+}
+a:link {
+  color: rgb(134, 199, 249);
+  text-decoration: none;
+}
+a:visited {
+  color: rgb(134, 199, 249);
+}
+a:hover {
+  color: rgb(150, 250, 255);
 }
