@@ -59,7 +59,7 @@ check out https://www.w3schools.com/howto for more micro component ideas.
 
 ### projects ideas:
 
-1. Tribute Page
+1. Tribute Page.
 2. Webpage Including Form
 3. Parallax Website
 4. Landing Page
