@@ -1,11 +1,13 @@
 body {
-  background-color: black;
-  color: white;
+  background-color: rgb(44, 42, 42);
+  color: rgb(185, 177, 177);
   font-size: larger;
+  font-family: "Times New Roman", Times, serif;
+  text-align: justify;
 }
 .center {
   margin: auto;
-  width: 50%;
+  width: 60%;
   padding: 10px;
 }
 .centered-content {
@@ -17,7 +19,6 @@ body {
 p {
   padding: 3%;
   margin: auto;
-  width: 50%;
   text-align: center;
 }
 a:link {
