@@ -129,3 +129,7 @@ https://hackr.io/blog/html-projects
 https://thewebdev.tech/html-css-projects
 
 https://laptrinhx.com/7-projects-to-practice-html-css-skills-for-beginners-2820828857/
+
+https://jsbeginners.com/javascript-projects-for-beginners/
+
+https://www.freecodecamp.org/news/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672/

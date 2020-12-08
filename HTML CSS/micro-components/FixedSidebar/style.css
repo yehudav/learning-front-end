@@ -1,30 +1,31 @@
 body {
+  margin: 0%;
+}
+#menu {
+  position: fixed;
+  background-color: rgb(43, 38, 38);
+  float: left;
+  width: 9%;
+  height: 100%;
+  padding: 2%;
   font-size: x-large;
 }
-aside {
-  position: fixed;
-  float: left;
-  background-color: black;
-  padding: 1%;
-  border: 0%;
-  margin: 0%;
-  width: 7%;
-  height: 100%;
-}
-section {
+#main {
+  background-color: rgb(61, 65, 63);
   float: right;
-  width: 89%;
-  background-color: blanchedalmond;
+  font-size: x-large;
+  width: 85%;
+  height: 100%;
   padding: 1%;
-
+  color: rgb(183, 187, 190);
 }
 a:link {
-  color: rgb(134, 199, 249);
+  color: rgb(51, 162, 244);
   text-decoration: none;
 }
 a:visited {
-  color: rgb(134, 199, 249);
+  color: rgb(51, 162, 244);
 }
 a:hover {
-  color: rgb(150, 250, 255);
+  color: aqua;
 }
