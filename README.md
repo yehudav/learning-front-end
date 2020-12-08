@@ -36,8 +36,8 @@ learn the basics of HTML and CSS by building AT LEAST:
 
 make sure to build every micro component 5 times from scratch, in order to actually understanding it.
 
-1. Fixed Sidebar
-2. Outline Buttons
+1. Fixed Sidebar.
+2. Outline Button.
 3. Top Navigation
 4. Login Form in a Menu
 5. Search Bar
