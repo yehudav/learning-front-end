@@ -1,0 +1,17 @@
+#button-container {
+  margin: auto;
+  text-align: center;
+  height: 100%;
+  padding: 20%;
+}
+#button {
+  background-color: transparent;
+  border-color: rgb(54, 125, 57);
+  color: #4caf50;
+  font-size: large;
+  padding: 1%;
+}
+#button:hover {
+  background-color: #4caf50;
+  color: white;
+}
