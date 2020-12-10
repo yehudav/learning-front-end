@@ -1,0 +1,27 @@
+body {
+  margin: 0%;
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: "Poppins", sans-serif;
+}
+form {
+  margin: auto;
+  margin-top: 10%;
+  padding: 4%;
+  background-color: rgb(51, 51, 158);
+  width: 50%;
+  opacity: 90%;
+  color: white;
+}
+input {
+  width: 98%;
+  height: 50px;
+  border-radius: 9px;
+  margin-top: 5px;
+  outline: none;
+}
+
+#submit-button {
+  background-color: #37af65;
+}
