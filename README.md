@@ -23,6 +23,9 @@ git, github, command line
 
 ## 1. learn computer science
 
+read and practice "cracking the coding interview"
+practice problems from leet code https://leetcode.com/problemset/all/
+
 ## 2. get a bird's eye view of the industry
 
 A basic to advanced understanding of HTML, CSS, DOM, JavaScript, HTTP/URL, and web browsers is assumed for any type of professional front-end developer role
