@@ -10,18 +10,18 @@ form {
   margin-top: 10%;
   padding: 4%;
   background-color: rgb(51, 51, 158);
-  width: 50%;
+  width: 50vw;
   opacity: 90%;
   color: white;
   border-radius: 9px;
 }
-input {
+/* input {
   width: 98%;
-  height: 50px;
+  height: 3vw;
   border-radius: 9px;
   margin-top: 5px;
   outline: none;
-}
+} */
 
 #submit-button {
   background-color: #37af65;
