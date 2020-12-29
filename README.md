@@ -145,25 +145,21 @@ build small projects 7. ajax, promises, async await, es6+ 8. OOP. prototype inhe
 
 so far - atleast 8-10 micro projecta, learn webpack 16.
 
-## 6. make money tutoring
-
-## 7. Node.js
+## 6. Node.js
 
 api, REST api, express mongodb, build todo list +db, blog
 
-## 8. learn React
+## 7. learn React
 
 - rebuild everything from before with react 19. learn redux 20. keep learning - sass, bem, security, preformence, ssr, gatsby
 
-## 9. job ready
 
 ## project ideas
 
 js
 digital clock
 currency converter
-nikud remover
-todolist
+todo list
 unit converter
 morse code translater
 form logic
