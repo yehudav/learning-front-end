@@ -1,28 +1,20 @@
-body {
-  background-color: rgb(46, 44, 42);
-  color: white;
-  margin-top: 0%;
-}
 nav {
-  background-color: rgb(132, 139, 146);
+  background-color: aquamarine;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
   position: fixed;
-  width: 100vw;
-  margin-top: 0%;
-  padding: 1vw;
 }
-section {
-  margin-top: 2%;
-  padding: 1vw;
+li {
+  display: inline-block;
 }
-a {
-  text-decoration: none;
-  color: white;
+li a {
+  list-style-type: none;
 }
-a:visited {
-  color: white;
+li a:hover {
 }
-
-a:hover {
-  color: white;
-  background-color:  rgb(158, 162, 167);
+#maini {
+  margin-top: 3%;
 }
