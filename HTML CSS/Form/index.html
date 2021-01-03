@@ -18,22 +18,41 @@
       <label for="email">Email:</label><br />
       <input type="email" id="email" name="email" /><br /><br />
       <!-- radio -->
-      <!-- <label for="radio">How awesome is this form?</label><br /> -->
-      <input type="radio1" id="op1" name="rate" value="awesome" />
-      <label for="radio1"> AWESOME!</label><br />
-      <input type="radio2" id="op2" name="rate" value="meh" />
-      <label for="radio2"> meh</label><br />
-      <input type="radio3" id="op3" name="rate" value="horrible" />
-      <label for="radio3"> horrible</label><br />
+      <p>How awesome is this form?</p>
+      <input
+        type="radio"
+        id="awesome"
+        name="form-awesomeness"
+        value="awesome"
+      />
+      <label for="awesome">AWESOME!</label><br />
+      <input type="radio" id="meh" name="form-awesomeness" value="meh" />
+      <label for="meh">meh</label><br />
+      <input
+        type="radio"
+        id="horrible"
+        name="form-awesomeness"
+        value="horrible"
+      />
+      <label for="horrible">horrible</label>
       <!-- checkbox-->
-      <label for="checkbox">How awesome is this form?</label><br />
-      <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike" />
-      <label for="vehicle1"> AWESOME!</label><br />
-      <input type="checkbox" id="vehicle2" name="vehicle2" value="Car" />
-      <label for="vehicle2"> meh</label><br />
-      <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat" />
-      <label for="vehicle3"> horrible</label><br />
+      <p>What do you like about this form?</p>
+      <input type="checkbox" id="color" name="color" value="color" />
+      <label for="color"> the background</label><br />
+      <input type="checkbox" id="color" name="color" value="color" />
+      <label for="color"> the color</label><br />
+      <input type="checkbox" id="design" name="design" value="design" />
+      <label for="design"> the design</label><br /><br />
       <!--  -->
+      <label for="rate">Please rate this form from 1 to 5</label><br />
+      <select id="rate" name="rate">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option></select
+      ><br />
+      <br />
       <!--  -->
       <!--submit-->
       <input type="submit" id="submit-button" value="Submit" /><br />
