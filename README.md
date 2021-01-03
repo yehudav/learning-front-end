@@ -8,12 +8,10 @@
 3. learn HTML, CSS.
 4. learn MOAR CSS.
 5. learn JavaScript.
-6. make money tutoring.
-7. learn Node.js.
-8. learn React.
-9. job ready.
+6. learn Node.js.
+7. learn React.
 
-source - https://www.youtube.com/watch?v=sppSnBQVt0k&t=2s
+road map source - https://www.youtube.com/watch?v=sppSnBQVt0k&t=2s
 
 resources mdn doc
 
@@ -23,8 +21,9 @@ git, github, command line
 
 ## 1. learn computer science
 
-read and practice "cracking the coding interview"
-practice problems from leet code https://leetcode.com/problemset/all/
+- read and practice "cracking the coding interview".
+
+- practice problems from leet code https://leetcode.com/problemset/all/
 
 ## 2. get a bird's eye view of the industry
 
@@ -89,9 +88,14 @@ learn the basics of HTML and CSS by building AT LEAST:
 - 12 micro components.
 - 5 simple websites (no JavaScript).
 
+### learn HTML and CSS
+
+- do the HTML and CSS courses at https://www.sololearn.com/
+- check out https://www.w3schools.com/
+
 ### micro components ideas:
 
-make sure to build every micro component 5 times from scratch, in order to actually understanding it.
+make sure to build every micro component ~5 times from scratch, to actually understand it.
 
 1. Fixed Sidebar.
 2. Outline Button.
@@ -112,12 +116,12 @@ make sure to build every micro component 5 times from scratch, in order to actua
 17. CSS Loader
 18. Tooltip
 
-check out https://www.w3schools.com/howto for more micro component ideas.
+micro components ideas - https://www.w3schools.com/howto
 
 ### projects ideas:
 
 1. Tribute Page.
-2. Form Webpage 
+2. Form Webpage
 3. Parallax Website
 4. Landing Page
 5. Restaurant Website
@@ -129,7 +133,15 @@ check out https://www.w3schools.com/howto for more micro component ideas.
 11. google.com page
 12. Video Background Site
 
-source - https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/
+projects ideas source - https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/
+
+### finisher
+
+read the HTML part of HTML and CSS course at https://www.theodinproject.com/courses/
+
+## so far
+
+at this point you can build basic websites.
 
 ## 4. learn MOAR CSS
 
@@ -138,6 +150,10 @@ source - https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice
 3. typography fluid typography responsive typography - general
 
 when u built at least 12 micro components, 5-10 websites, comfortable with positioning, flexbox, grid,
+
+### finisher
+
+read the CSS part of HTML and CSS course at https://www.theodinproject.com/courses/
 
 ## 5. learn JavaScript
 
@@ -152,7 +168,6 @@ api, REST api, express mongodb, build todo list +db, blog
 ## 7. learn React
 
 - rebuild everything from before with react 19. learn redux 20. keep learning - sass, bem, security, preformence, ssr, gatsby
-
 
 ## project ideas
 
