@@ -121,7 +121,7 @@ micro components ideas - https://www.w3schools.com/howto
 ### projects ideas:
 
 1. Tribute Page.
-2. Form Webpage
+2. Form Webpage.
 3. Parallax Website
 4. Landing Page
 5. Restaurant Website
@@ -142,6 +142,8 @@ read the HTML part of HTML and CSS course at https://www.theodinproject.com/cour
 ## so far
 
 at this point you can build basic websites.
+you have built at least 5 websites, 12 micro-components, and you have a good understanding of HTML and CSS.
+keep building!
 
 ## 4. learn MOAR CSS
 
@@ -155,9 +157,25 @@ when u built at least 12 micro components, 5-10 websites, comfortable with posit
 
 read the CSS part of HTML and CSS course at https://www.theodinproject.com/courses/
 
+## so far
+
 ## 5. learn JavaScript
 
 build small projects 7. ajax, promises, async await, es6+ 8. OOP. prototype inhernce, 9. pure functions, functional programming, design patterns 10. larger projects - ecommerce, forum, social media, music player, use local storage, large == complexity 11. design patterns - 10 projects pure js
+
+### micro components ideas:
+
+### projects ideas:
+
+1. digital clock
+2. currency converter
+3. todo list
+4. unit converter
+5. morse code translater
+6. form logic
+7. binary converter
+
+## so far
 
 so far - atleast 8-10 micro projecta, learn webpack 16.
 
@@ -168,17 +186,6 @@ api, REST api, express mongodb, build todo list +db, blog
 ## 7. learn React
 
 - rebuild everything from before with react 19. learn redux 20. keep learning - sass, bem, security, preformence, ssr, gatsby
-
-## project ideas
-
-js
-digital clock
-currency converter
-todo list
-unit converter
-morse code translater
-form logic
-binary converter
 
 # projects ideas:
 
