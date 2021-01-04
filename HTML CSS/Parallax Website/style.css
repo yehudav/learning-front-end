@@ -1,0 +1,35 @@
+body {
+  margin: 0%;
+}
+
+#im-1 {
+  background-image: url("1.jpg");
+}
+#im-2 {
+  background-image: url("2.jpg");
+}
+#im-3 {
+  background-image: url("3.jpg");
+}
+#im-4 {
+  background-image: url("1.jpg");
+}
+.parallax {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  background-attachment: fixed;
+  text-align: center;
+  font-size: xx-large;
+  box-sizing: border-box;
+}
+.text-area {
+  background-color: rgb(40, 46, 52);
+  font-size: large;
+  width: 100%;
+  padding: 5%;
+  color: white;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
