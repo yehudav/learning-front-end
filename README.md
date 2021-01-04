@@ -171,7 +171,7 @@ build small projects 7. ajax, promises, async await, es6+ 8. OOP. prototype inhe
 2. currency converter
 3. todo list
 4. unit converter
-5. morse code translater
+5. morse code translator
 6. form logic
 7. binary converter
 
