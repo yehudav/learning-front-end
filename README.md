@@ -122,7 +122,7 @@ micro components ideas - https://www.w3schools.com/howto
 
 1. Tribute Page.
 2. Form Webpage.
-3. Parallax Website
+3. Parallax Website.
 4. Landing Page
 5. Restaurant Website
 6. Event or Conference Webpage
