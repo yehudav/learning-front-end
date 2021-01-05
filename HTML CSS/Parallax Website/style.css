@@ -28,8 +28,9 @@ body {
   background-color: rgb(40, 46, 52);
   font-size: large;
   width: 100%;
-  padding: 5%;
+  padding: 4%;
   color: white;
   font-family: sans-serif;
+  background-size: cover;
   box-sizing: border-box;
 }
