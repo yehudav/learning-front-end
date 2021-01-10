@@ -23,7 +23,7 @@ git, github, command line
 
 - read and practice "cracking the coding interview".
 
-- practice problems from leet code https://leetcode.com/problemset/all/
+- practice problems from leet code https://leetcode.com/explore/learn/ and https://leetcode.com/problemset/all/
 
 ## 2. get a bird's eye view of the industry
 
@@ -131,7 +131,7 @@ micro components ideas - https://www.w3schools.com/howto
 9. Personal Portfolio
 10. Technical Documentation
 11. google.com page
-12. Technical documentation page
+12. Video Background Site.
 13. Technical documentation page
 
 projects ideas source - https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/
@@ -203,7 +203,6 @@ https://devpractical.com/project-based-html-css-tutorials/
 https://hackr.io/blog/html-projects
 
 https://thewebdev.tech/html-css-projects
-
 
 https://jsbeginners.com/javascript-projects-for-beginners/
 
