@@ -131,7 +131,8 @@ micro components ideas - https://www.w3schools.com/howto
 9. Personal Portfolio
 10. Technical Documentation
 11. google.com page
-12. Video Background Site
+12. Technical documentation page
+13. Technical documentation page
 
 projects ideas source - https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/
 
@@ -203,7 +204,6 @@ https://hackr.io/blog/html-projects
 
 https://thewebdev.tech/html-css-projects
 
-https://laptrinhx.com/7-projects-to-practice-html-css-skills-for-beginners-2820828857/
 
 https://jsbeginners.com/javascript-projects-for-beginners/
 
