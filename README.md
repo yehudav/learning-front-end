@@ -27,6 +27,8 @@ git, github, command line
 
 ## 2. get a bird's eye view of the industry
 
+What you need to know - HTML, CSS, JavaScript,
+
 A basic to advanced understanding of HTML, CSS, DOM, JavaScript, HTTP/URL, and web browsers is assumed for any type of professional front-end developer role
 Beyond the skills just mentioned, a front-end developer might also be specifically skilled in one or more of the following:
 
