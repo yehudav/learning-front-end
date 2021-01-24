@@ -1,0 +1,17 @@
+#nav-bar li {
+  display: inline-block;
+  margin: 0 7px;
+}
+#logo {
+  margin: auto;
+}
+#logo image {
+  height: 10%;
+  width: 20%;
+}
+#search-bar input {
+    border-radius: 10px;
+    border-color: rgb(161, 164, 167);
+    outline: none;
+    width: 40%;
+}
