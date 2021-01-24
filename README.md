@@ -13,8 +13,6 @@
 
 road map source - https://www.youtube.com/watch?v=sppSnBQVt0k&t=2s
 
-resources mdn doc
-
 ## 0. set up
 
 git, github, command line
@@ -132,7 +130,7 @@ micro components ideas - https://www.w3schools.com/howto
 8. Photography Site
 9. Personal Portfolio
 10. Technical Documentation
-11. google.com page
+11. google.com page.
 12. Video Background Site.
 13. Technical documentation page
 
